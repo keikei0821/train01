@@ -1,1 +1,2 @@
 select * from testtable limit 1;
+Select * from testtable2;
